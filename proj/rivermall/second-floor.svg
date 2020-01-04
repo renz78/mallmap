@@ -45,7 +45,7 @@
    inkscape:current-layer="Layer_1" />
 
 
-
+<g id="landmarks-second">
 
 <path
    style="fill:#e6e6e6;stroke:#000000;stroke-width:1.62589467px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -370,4 +370,5 @@
      x="391.08478"
      y="345.62589"
      style="fill:#ffffff;fill-opacity:0.77386935;stroke-width:0.67099845">OGGI</tspan></text>
+  </g>
 </svg>
