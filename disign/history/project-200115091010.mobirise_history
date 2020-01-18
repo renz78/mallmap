@@ -38,8 +38,7 @@
     "uniqCompNum": 10,
     "versionPublish": "4.10.7",
     "publishType": "local",
-    "publishPath": "file:///D:/web/projects/mapplic/mallmap/disign",
-    "screenshot": "screenshot.png"
+    "publishPath": "file:///D:/web/projects/mapplic/mallmap/disign"
   },
   "pages": {
     "index.html": {
